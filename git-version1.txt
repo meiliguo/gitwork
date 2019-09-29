@@ -1,3 +1,0 @@
-第一次使用git
-Git  is a free software
-Babbabab

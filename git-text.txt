@@ -1,0 +1,6 @@
+Git  is a free software
+git init [project-name]
+git clone url
+git config -e
+git add [file]
+git rm [file]
